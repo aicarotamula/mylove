@@ -1,0 +1,155 @@
+body{
+    background-color: #f4f4f4;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.container{
+
+    width: 95%;
+    background:#f4f4f4;
+    margin: auto;
+    box-shadow: -17px 17px 11px -14px rgba(84,81,84,0.61);
+
+}
+ 
+header{
+
+    background-color: #704F38;
+    color: #f5f1ed;
+    padding: 10PX 0;
+
+}
+nav ul{
+    list-style: none;
+    padding: 0;
+
+    
+}
+nav ul li{
+    display: inline;
+    margin: 0 10px;
+
+}
+
+.denden{
+    text-align: left;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #704F38;
+}
+nav ul li a:hover{
+    color:#947352;
+    font-weight: bold;
+
+}
+
+.shaba{
+    width: 100%;
+    height: 300px;
+    background: url('shaba.jpg') no-repeat center/cover;
+}
+
+P{
+    font-size: 16px;
+    color: #0b0b0b;
+    line-height: 1.8;
+    padding: 0 20px;
+    white-space: 15px;
+    text-align: left;
+}
+
+.readmore{
+    text-decoration: none;
+    background-color: #947352;
+    color: #f4f4f4;
+    padding: 10px 20px;
+    border-radius: 25px;
+}
+.readmore:hover{
+    background-color: #704F38;
+}
+footer{
+    background: #704F38;
+    padding: 10px 0;
+    margin-top: 30px;
+    color: #f5f1ed;  
+}
+.fo{
+    text-align: center;
+    color:grey;
+}
+.dodo{
+    text-align: center;
+}
+
+
+.PRODUCT{
+    text-decoration: none;
+    background-color: #947352;
+    color: #f4f4f4;
+    padding: 10px 20px;
+    border-radius: 25px;
+}
+.PRODUCT:hover{
+    background-color: #704F38;
+
+}
+
+.pizza{
+    text-decoration: none;
+    background-color: #947352;
+    color: #f4f4f4;
+    padding: 10px 20px;
+    border-radius: 25px;
+}
+   
+.pizza:hover{
+    background-color: #704F38;
+}
+
+.product{
+    color: #704F38;
+}
+ 
+td{
+    text-align: left;
+    color: #704F38;
+}
+.nay{
+    text-decoration: none;
+    background-color: #947352;
+    color: #f4f4f4;
+    padding: 0 0;
+    border-radius: 30px;
+    
+}
+.nay:hover{
+   background-color: #704F38 ;
+
+}
+.BACK{
+    text-decoration: none;
+    background-color: #947352;
+    color: #f4f4f4;
+    padding: 10px 20px;
+    border-radius: 300px;
+    
+}
+.BACK:hover{
+    color: #704F38;
+}
+
+.berna{
+    text-decoration: none;
+    background-color:khaki;
+    color:#f4f4f4;
+    padding: 0 0;
+    border-radius: 300px;
+    
+}
+.wa{
+    color: #704F38;
+}
